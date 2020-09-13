@@ -18,11 +18,11 @@
 
 В процессе тестирования использовались следующие артефакты:
 
-* файл [KeyValidator.class](intro/user-manual.md)
+* файл [KeyValidator.class](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class)
 
-* файл [.gitignore](.gitignore)
+* файл [.gitignore](https://github.com/netology-code/javaqa-homeworks/blob/master/.gitignore)
 
-В качестве тестовых данных использовались данные [Руководство использования KeyValidator](intro/user-manual.md):
+В качестве тестовых данных использовались данные [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 
 При вводе валидных ключей должно появится "OK", при вводе невалидных ключей - "FAIL"
 
